@@ -18,8 +18,7 @@ const hubsData: Hub[] = [
     regularPrice: 300,
     discount: 50,
     description: "small luxury cabin",
-    image:
-      "https://vxluyfmzabnwzqtlnviq.supabase.co/storage/v1/object/public/hubs-images//cabin-001.jpg",
+    image: "@/assets/hubs/hub-1-001.jpg",
   },
   {
     id: 2,
@@ -29,8 +28,7 @@ const hubsData: Hub[] = [
     regularPrice: 500,
     discount: 80,
     description: "bla",
-    image:
-      "https://vxluyfmzabnwzqtlnviq.supabase.co/storage/v1/object/public/hubs-images//cabin-002.jpg",
+    image: "@/assets/hubs/hub-2-001.jpg",
   },
   {
     id: 3,
@@ -40,8 +38,7 @@ const hubsData: Hub[] = [
     regularPrice: 400,
     discount: 40,
     description: "bla",
-    image:
-      "https://vxluyfmzabnwzqtlnviq.supabase.co/storage/v1/object/public/hubs-images//cabin-003.jpg",
+    image: "@/assets/hubs/hub-3-001.jpg",
   },
   {
     id: 6,
@@ -51,8 +48,7 @@ const hubsData: Hub[] = [
     regularPrice: 343,
     discount: 32,
     description: "tetetet",
-    image:
-      "https://vxluyfmzabnwzqtlnviq.supabase.co/storage/v1/object/public/hubs-images//cabin-004.jpg",
+    image: "@/assets/hubs/hub-4-001.jpg",
   },
   {
     id: 17,
@@ -62,8 +58,7 @@ const hubsData: Hub[] = [
     regularPrice: 100,
     discount: 0,
     description: "rooom",
-    image:
-      "https://vxluyfmzabnwzqtlnviq.supabase.co/storage/v1/object/public/hubs-images//0.8185795418076194-1600w-Hb4Wbnm7bb4.webp",
+    image: "@/assets/hubs/hub-5-001.jpg",
   },
   {
     id: 18,
@@ -73,8 +68,7 @@ const hubsData: Hub[] = [
     regularPrice: 100,
     discount: 0,
     description: "rooom",
-    image:
-      "https://vxluyfmzabnwzqtlnviq.supabase.co/storage/v1/object/public/hubs-images//0.8185795418076194-1600w-Hb4Wbnm7bb4.webp",
+    image: "@/assets/hubs/hub-6-001.jpg",
   },
 ];
 
